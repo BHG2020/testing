@@ -1,0 +1,60 @@
+body {
+  margin: 2%;
+  background-color: black;
+  background-attachment: fixed;
+  color: white;
+}
+
+div, .cont {
+     background: orange;
+     color: #ffffff;
+     display: inline-block;
+     clear: both;
+     width: 850px;
+     height: 400px;
+     padding-left: 15px;
+     padding-right: 10px;
+     line-height: 135%;
+     font-size: 18px;
+     text-align: justify;
+
+     opacity: 85%;
+  }
+
+
+}
+
+p, ul {
+  line-height: 150%;
+  color: white;
+}
+
+h1.intro {
+  text-align: center;
+}
+.CT, ul {
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 1%;
+  padding-bottom: 1%;
+}
+img, .Prof{
+  display: block;
+   margin-left: auto;
+   margin-right:auto;
+   width: 40%;
+   float: right;
+   padding-right: 5%;
+   padding-bottom: 5%;
+}
+
+ul, p .idx{
+  font-style: normal;
+  font-weight: normal;
+  line-height: 150%
+}
+
+img .Perfil{
+  width: 250px;
+  height: auto;
+}
