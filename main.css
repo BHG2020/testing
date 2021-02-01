@@ -15,12 +15,6 @@ p, ul {
 h1.intro {
   text-align: center;
 }
-.CT, ul {
-  font-size: 20px;
-  font-weight: bold;
-  margin-left: 1%;
-  padding-bottom: 1%;
-}
 
 ul, p .idx{
   font-style: normal;
