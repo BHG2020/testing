@@ -5,24 +5,7 @@ body {
   color: white;
 }
 
-div, .cont {
-     background: orange;
-     color: #ffffff;
-     display: inline-block;
-     clear: both;
-     width: 850px;
-     height: 400px;
-     padding-left: 15px;
-     padding-right: 10px;
-     line-height: 135%;
-     font-size: 18px;
-     text-align: justify;
 
-     opacity: 85%;
-  }
-
-
-}
 
 p, ul {
   line-height: 150%;
@@ -42,7 +25,8 @@ img, .Prof{
   display: block;
    margin-left: auto;
    margin-right:auto;
-   width: 40%;
+   width: auto;
+   height: auto;
    float: right;
    padding-right: 5%;
    padding-bottom: 5%;
